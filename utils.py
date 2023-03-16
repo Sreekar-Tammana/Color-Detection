@@ -1,6 +1,7 @@
 import numpy as np
 import cv2
 
+# Provides Lower and Upper Limits of a color
 def get_limits(color):
 
     c = np.uint8([[color]])
@@ -12,8 +13,4 @@ def get_limits(color):
     lowerLimit = np.array(lowerLimit, dtype=np.uint8)
     upperLimit = np.array(upperLimit, dtype=np.uint8)
 
-    # print(lowerLimit, upperLimit)
     return lowerLimit, upperLimit
-
-
-# get_limits([0,255,255])
