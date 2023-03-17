@@ -3,11 +3,8 @@
 </p>
 <h1 align="center">Color Detection using OpenCV</h1>
 
-## Input📥
-<!-- ![railway_ticket](https://user-images.githubusercontent.com/42037409/225226104-58ab8c9d-7be6-4f48-a7c3-013299559c0a.jpg) -->
-
-## Output📤
-<!-- ![Screenshot (228)-1](https://user-images.githubusercontent.com/42037409/225226177-c9323900-1834-4e0a-960b-248d5d8a1900.png) -->
+## Video🎥
+https://user-images.githubusercontent.com/42037409/225844709-bbfb9b1e-9f15-45a4-acb5-6ff0b52035cd.mp4
 
 ## ☸ Usage
 - Detects defined color
